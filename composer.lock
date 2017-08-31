@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f0a28e5e37481070d260fb13cecf344b",
+    "hash": "0a0c8602666ae27b0897230d2d7dad28",
+    "content-hash": "3c4875a829b3953dd25668b3545031de",
     "packages": [
         {
             "name": "latte/latte",
@@ -76,7 +77,7 @@
                 "template",
                 "twig"
             ],
-            "time": "2017-08-29T08:24:52+00:00"
+            "time": "2017-08-29 08:24:52"
         },
         {
             "name": "nette/application",
@@ -163,7 +164,7 @@
                 "routing",
                 "seo"
             ],
-            "time": "2017-08-24T21:30:36+00:00"
+            "time": "2017-08-24 21:30:36"
         },
         {
             "name": "nette/bootstrap",
@@ -239,7 +240,7 @@
                 "configurator",
                 "nette"
             ],
-            "time": "2017-08-20T17:36:59+00:00"
+            "time": "2017-08-20 17:36:59"
         },
         {
             "name": "nette/caching",
@@ -308,7 +309,7 @@
                 "nette",
                 "sqlite"
             ],
-            "time": "2017-08-18T15:20:18+00:00"
+            "time": "2017-08-18 15:20:18"
         },
         {
             "name": "nette/component-model",
@@ -365,7 +366,7 @@
             ],
             "description": "Nette Component Model",
             "homepage": "https://nette.org",
-            "time": "2017-07-11T08:59:35+00:00"
+            "time": "2017-07-11 08:59:35"
         },
         {
             "name": "nette/database",
@@ -437,7 +438,7 @@
                 "queries",
                 "sqlite"
             ],
-            "time": "2017-07-27T10:58:17+00:00"
+            "time": "2017-07-27 10:58:17"
         },
         {
             "name": "nette/di",
@@ -497,7 +498,7 @@
             ],
             "description": "Nette Dependency Injection Component",
             "homepage": "https://nette.org",
-            "time": "2017-07-11T17:55:11+00:00"
+            "time": "2017-07-11 17:55:11"
         },
         {
             "name": "nette/finder",
@@ -553,7 +554,7 @@
             ],
             "description": "Nette Finder: Files Searching",
             "homepage": "https://nette.org",
-            "time": "2017-07-10T23:47:08+00:00"
+            "time": "2017-07-10 23:47:08"
         },
         {
             "name": "nette/forms",
@@ -621,7 +622,7 @@
                 "nette",
                 "validation"
             ],
-            "time": "2017-08-25T12:45:48+00:00"
+            "time": "2017-08-25 12:45:48"
         },
         {
             "name": "nette/http",
@@ -693,7 +694,7 @@
                 "session",
                 "url"
             ],
-            "time": "2017-08-24T21:04:00+00:00"
+            "time": "2017-08-24 21:04:00"
         },
         {
             "name": "nette/mail",
@@ -754,7 +755,7 @@
             ],
             "description": "Nette Mail: Sending E-mails",
             "homepage": "https://nette.org",
-            "time": "2017-07-13T16:51:28+00:00"
+            "time": "2017-07-13 16:51:28"
         },
         {
             "name": "nette/neon",
@@ -808,7 +809,7 @@
             ],
             "description": "Nette NEON: parser & generator for Nette Object Notation",
             "homepage": "http://ne-on.org",
-            "time": "2017-07-11T18:29:08+00:00"
+            "time": "2017-07-11 18:29:08"
         },
         {
             "name": "nette/php-generator",
@@ -864,7 +865,7 @@
             ],
             "description": "Nette PHP Generator",
             "homepage": "https://nette.org",
-            "time": "2017-07-14T07:06:27+00:00"
+            "time": "2017-07-14 07:06:27"
         },
         {
             "name": "nette/reflection",
@@ -928,7 +929,7 @@
                 "nette",
                 "reflection"
             ],
-            "time": "2017-07-11T19:28:57+00:00"
+            "time": "2017-07-11 19:28:57"
         },
         {
             "name": "nette/robot-loader",
@@ -993,7 +994,7 @@
                 "nette",
                 "trait"
             ],
-            "time": "2017-07-18T00:09:56+00:00"
+            "time": "2017-07-18 00:09:56"
         },
         {
             "name": "nette/security",
@@ -1051,7 +1052,7 @@
             ],
             "description": "Nette Security: Access Control Component",
             "homepage": "https://nette.org",
-            "time": "2017-07-11T09:41:59+00:00"
+            "time": "2017-07-11 09:41:59"
         },
         {
             "name": "nette/utils",
@@ -1130,7 +1131,7 @@
                 "utility",
                 "validation"
             ],
-            "time": "2017-08-20T17:32:29+00:00"
+            "time": "2017-08-20 17:32:29"
         },
         {
             "name": "tracy/tracy",
@@ -1197,7 +1198,58 @@
                 "nette",
                 "profiler"
             ],
-            "time": "2017-08-16T17:13:36+00:00"
+            "time": "2017-08-16 17:13:36"
+        },
+        {
+            "name": "twbs/bootstrap",
+            "version": "v4.0.0-beta",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/twbs/bootstrap.git",
+                "reference": "35f80bb12e4e71fd777ee60ffa43711d8f84b1a6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/35f80bb12e4e71fd777ee60ffa43711d8f84b1a6",
+                "reference": "35f80bb12e4e71fd777ee60ffa43711d8f84b1a6",
+                "shasum": ""
+            },
+            "replace": {
+                "twitter/bootstrap": "self.version"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.3.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jacob Thornton",
+                    "email": "jacobthornton@gmail.com"
+                },
+                {
+                    "name": "Mark Otto",
+                    "email": "markdotto@gmail.com"
+                }
+            ],
+            "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+            "homepage": "https://getbootstrap.com",
+            "keywords": [
+                "JS",
+                "css",
+                "framework",
+                "front-end",
+                "mobile-first",
+                "responsive",
+                "sass",
+                "web"
+            ],
+            "time": "2017-08-11 03:56:35"
         }
     ],
     "packages-dev": [
@@ -1261,12 +1313,14 @@
                 "testing",
                 "unit"
             ],
-            "time": "2017-08-22T06:46:57+00:00"
+            "time": "2017-08-22 06:46:57"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "twbs/bootstrap": 10
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
